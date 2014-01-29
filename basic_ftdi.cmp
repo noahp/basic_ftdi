@@ -1,0 +1,129 @@
+Cmp-Mod V01 Genere par PcbNew le 9/14/2012 6:41:57 PM
+
+BeginCmp
+TimeStamp = /504FEE7D;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /505360A3;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /505361A2;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /505338C4;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /505338CA;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /504FEC69;
+Reference = J1;
+ValeurCmp = 10103593-0001LF;
+IdModule  = 10118193-0001LF;
+EndCmp
+
+BeginCmp
+TimeStamp = /5053626E;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = jumper_small;
+EndCmp
+
+BeginCmp
+TimeStamp = /50535EC9;
+Reference = JP2;
+ValeurCmp = JUMPER;
+IdModule  = jumper_small;
+EndCmp
+
+BeginCmp
+TimeStamp = /50535ECE;
+Reference = JP3;
+ValeurCmp = JUMPER;
+IdModule  = jumper_small;
+EndCmp
+
+BeginCmp
+TimeStamp = /5053396A;
+Reference = P1;
+ValeurCmp = vccout;
+IdModule  = noah_1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /5053396F;
+Reference = P2;
+ValeurCmp = tx;
+IdModule  = noah_1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /50533978;
+Reference = P3;
+ValeurCmp = rx;
+IdModule  = noah_1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /50533980;
+Reference = P4;
+ValeurCmp = gnd;
+IdModule  = noah_1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /50532FF4;
+Reference = R1;
+ValeurCmp = 27R;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /50532FF9;
+Reference = R2;
+ValeurCmp = 27R;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /505338E9;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /505338F8;
+Reference = R4;
+ValeurCmp = 1K;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /50535F98;
+Reference = U1;
+ValeurCmp = FT230XS-R;
+IdModule  = FT230XS-R;
+EndCmp
+
+EndListe
